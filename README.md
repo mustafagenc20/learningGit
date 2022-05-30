@@ -1,3 +1,3 @@
-# newProject
+# learningGit
 
 Added Readme file
