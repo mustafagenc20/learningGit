@@ -1,8 +1,4 @@
 # learningGit
 
-Added Readme file
+Changed lines
 
-Added extra lines
-
-Added more line
-Added more line
